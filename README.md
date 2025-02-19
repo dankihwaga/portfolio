@@ -1,12 +1,12 @@
-#Data Scientist
+# Data Scientist
 
 Technical skills: Excel, R, Python, SQL, SPSS, Tableau, Power BI
 
-###Education
+### Education
 
 -Bachelor of Science | Kenyatta University (_Dec 2020_)
 
-###Certifications
+### Certifications
 
 -Google Data Analytics Professional Certificate | Coursera (_October 2024_)
 
@@ -14,7 +14,7 @@ Technical skills: Excel, R, Python, SQL, SPSS, Tableau, Power BI
 
 -SQL Masterclass: SQL for Data Analytics | Udemy (_June 2024_)
 
-###Work Experience
+### Work Experience
 
 **Statistician at Kenya Forestry Research Institute (KEFRI) (_April 2024 - March 2025_)**
 
@@ -32,7 +32,7 @@ Technical skills: Excel, R, Python, SQL, SPSS, Tableau, Power BI
 
 -Created dashboards to sort data by key metrics.
 
-###Projects
+### Projects
 
 [Titanic - Machine Learning from Disaster using R](https://github.com/dankihwaga/titanic-machine-learning) and 
 [Titanic - Machine Learning from Disaster using Python](https://github.com/dankihwaga/Titanic---Machine-Learning-in-Python)
