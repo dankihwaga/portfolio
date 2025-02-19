@@ -24,7 +24,10 @@ Technical skills: Excel, R, Python, SQL, SPSS, Tableau, Power BI
 -Created dashboards to sort data by key metrics.
 
 ###Projects
-Titanic - Machine Learning from Disaster using R and Python
-Google Data Analytics capstone project
-US largest companies web scraping
-BMI calculator
+[Titanic - Machine Learning from Disaster using R](https://github.com/dankihwaga/titanic-machine-learning) 
+[Titanic - Machine Learning from Disaster using Python](https://github.com/dankihwaga/Titanic---Machine-Learning-in-Python)
+[Google Data Analytics capstone project](https://github.com/dankihwaga/google-data-analytics-capstone-project)
+[US largest companies web scraping](https://github.com/dankihwaga/US-largest-companies-web-scraping)
+[BMI calculator](https://github.com/dankihwaga/BMI-Calculator)
+[Data Visualization using Matplotlib](https://github.com/dankihwaga/Matplotlib)
+[Tableau Dashboard](https://public.tableau.com/app/profile/daniel.kihwaga/viz/SuperstoreDataViz_17214785066790/SalesProfitDashboard)
