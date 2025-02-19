@@ -24,7 +24,7 @@ Technical skills: Excel, R, Python, SQL, SPSS, Tableau, Power BI
 
 -Provided support to senior research scientists in research, data analysis and visualization, contributing to successful projects.
 
-**Freelance Data Analyst** 
+**Freelance Data Analyst (_2020_ - _Present_)**
 
 -Conducted data analysis for various clients and identified key insights that led to increase in their sales.
 
